@@ -14,5 +14,5 @@ But wait, there's more! My scientific curiosity extends to unraveling the secret
 
 Flashback to my roots: I'm a product of Ben-Gurion University in Israel, where I plunged headfirst into the fascinating world of computational physical organic chemistry, graduating in 2021. My love affair with science took me to the prestigious Weizmann Institute of Science, where, as a Dean’s Excellence Postdoctoral Fellow, I continued my deep dive into the world of Quantum tunneling and Organocatalysis.
 
-So, dive in and explore my digital space!
+Thank you for stopping by, and I'm eager to share my scientific journey and discoveries with you!
 
