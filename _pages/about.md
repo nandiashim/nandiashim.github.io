@@ -1,3 +1,13 @@
+---
+permalink: /
+title: " "
+excerpt: " "
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome to my digital space! I'm excited to pull back the curtain and give you a glimpse into my life as a Postdoctoral Research Associate at USC's Warshel Center for Multiscale Simulations. Picture a rollercoaster ride through the realms of physics, chemistry, and biology—that's my daily grind! I’m currently on a mission to decode the Renilla Luciferase enzyme, Nature’s very own neon light, with the help of advanced QM/MM methods.
 
 But wait, there's more! My scientific curiosity extends to unraveling the secrets of amyloid fibrils, proteins with links to Alzheimer’s and Parkinson’s. It’s a high-stakes challenge, but I’m all in, fueled by the promise of breakthroughs and deeper insights.
