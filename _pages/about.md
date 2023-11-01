@@ -16,3 +16,17 @@ Flashback to my roots: I'm a product of Ben-Gurion University in Israel, where I
 
 Thank you for stopping by, and I'm eager to share my scientific journey and discoveries with you!
 
+Education
+======
+* M.Sc in Chemistry, North-Eastern Hill University, India, 2015
+* MS-Ph.D in Chemistry, Ben-Gurion University of the Negev, Israel, 2021 
+  Advisor: Dr. Sebastian Kozuch (Professor)
+
+Professional Experience
+======
+* Postdoctoral Research Associate, University of Southern California, 2022—Present
+  Advisor: Dr. Ariah Warshel (Distinguish Professor, and 2013 Nobel Laureate in Chemistry) 
+
+* Postdoctoral Fellow, Weizmann Institute of Science, Israel, 2021—2022
+  Advisor: Dr. Gershom (Jan) Martin (Professor, and 2023 Schroedinger Medalist)
+
