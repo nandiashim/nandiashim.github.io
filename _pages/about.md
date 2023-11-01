@@ -18,24 +18,24 @@ Thank you for stopping by, and I'm eager to share my scientific journey and disc
 
 Education
 ======
-* M.Sc. in Chemistry, North-Eastern Hill University, India, 2015
-* MS-Ph.D. in Chemistry, Ben-Gurion University of the Negev, Israel, 2021 
-  Advisor: Dr. Sebastian Kozuch (Professor)
+* M.Sc. in Chemistry, North-Eastern Hill University, India, 2015.
+* MS-Ph.D. in Chemistry, Ben-Gurion University of the Negev, Israel, 2021. 
+  `_Advisor:_` Dr. Sebastian Kozuch (Professor).
 
 Professional Experience
 ======
-* Postdoctoral Research Associate, University of Southern California, 2022-Present  
-  Advisor: Dr. Arieh Warshel (Distinguish Professor, and 2013 Nobel Laureate in Chemistry) 
-
-* Postdoctoral Fellow, Weizmann Institute of Science, Israel, 2021-2022   
-  Advisor: Dr. Gershom (Jan) Martin (Professor, and 2023 Schroedinger Medalist)
+* 2022-Present: Postdoctoral Research Associate, University of Southern California.    
+  `_Advisor:_` Dr. Arieh Warshel (Distinguished Professor and 2013 Nobel Laureate in Chemistry).
+  
+* 2021-2022: Postdoctoral Fellow, Weizmann Institute of Science, Israel.     
+  `_Advisor:_` Dr. Gershom (Jan) Martin (Professor and 2023 Schrödinger Medalist).
 
 Awards & Fellowships
 ======
-* Dean’s Excellence Postdoctoral Fellowship (Weizmann Institute of Science)  
-* Rector Prize for Excellence (summa cum laude) in Ph.D. (Chemistry)
-* Negev-Tsin Scholarship for Ph.D. in Chemistry
-* ADAMA Prize for Excellence in MS thesis
-* Rector Gold Medal in M.Sc. (Chemistry) for securing 1st rank in the University
-* Oil and Natural Gas Corporation (ONGC) India Scholarship for securing Distinction in M.Sc. (Chemistry)
+* 2021: Dean’s Excellence Postdoctoral Fellowship, Weizmann Institute of Science.   
+* 2021: University's Rector Prize for Excellence in Ph.D. (summa cum laude), Chemistry.  
+* 2017-2021: Negev-Tsin Scholarship for Ph.D., Chemistry.  
+* 2017: ADAMA Prize for Excellence in M.S. thesis.  
+* 2015: Rector Gold Medal for M.Sc., Chemistry.
+* 2013-2015: Oil and Natural Gas Corporation (ONGC) India Scholarship for Distinction in M.Sc., Chemistry.
 
