@@ -24,11 +24,11 @@ Education
 
 Professional Experience
 ======
-* Postdoctoral Research Associate, University of Southern California, 2022—Present
+* Postdoctoral Research Associate, University of Southern California, 2022-Present
   
   Advisor: Dr. Arieh Warshel (Distinguish Professor, and 2013 Nobel Laureate in Chemistry) 
 
-* Postdoctoral Fellow, Weizmann Institute of Science, Israel, 2021—2022
+* Postdoctoral Fellow, Weizmann Institute of Science, Israel, 2021-2022
   
   Advisor: Dr. Gershom (Jan) Martin (Professor, and 2023 Schroedinger Medalist)
 
