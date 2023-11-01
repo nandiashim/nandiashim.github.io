@@ -20,15 +20,15 @@ Education
 ======
 * M.Sc. in Chemistry, North-Eastern Hill University, India, 2015.
 * MS-Ph.D. in Chemistry, Ben-Gurion University of the Negev, Israel, 2021. 
-  `_Advisor:_` Dr. Sebastian Kozuch (Professor).
+  _Advisor:_ Dr. Sebastian Kozuch (Professor).
 
 Professional Experience
 ======
 * 2022-Present: Postdoctoral Research Associate, University of Southern California.    
-  `_Advisor:_` Dr. Arieh Warshel (Distinguished Professor and 2013 Nobel Laureate in Chemistry).
+  _Advisor:_ Dr. Arieh Warshel (Distinguished Professor and 2013 Nobel Laureate in Chemistry).
   
 * 2021-2022: Postdoctoral Fellow, Weizmann Institute of Science, Israel.     
-  `_Advisor:_` Dr. Gershom (Jan) Martin (Professor and 2023 Schrödinger Medalist).
+  _Advisor:_ Dr. Gershom (Jan) Martin (Professor and 2023 Schrödinger Medalist).
 
 Awards and Honors
 ======
