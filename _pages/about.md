@@ -30,7 +30,7 @@ Professional Experience
 * 2021-2022: Postdoctoral Fellow, Weizmann Institute of Science, Israel.     
   `_Advisor:_` Dr. Gershom (Jan) Martin (Professor and 2023 Schrödinger Medalist).
 
-Awards & Fellowships
+Awards and Honors
 ======
 * 2021: Dean’s Excellence Postdoctoral Fellowship, Weizmann Institute of Science.   
 * 2021: University's Rector Prize for Excellence in Ph.D. (summa cum laude), Chemistry.  
