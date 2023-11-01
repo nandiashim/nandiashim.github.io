@@ -17,9 +17,9 @@ _Note:_ * denotes corresponding author. ‡ Equally contributed.
 
 5. Z. Alassad‡, A. Nandi‡, S. Kozuch*, A. Milo* – Strategic Design of Organocatalysts through in-situ Dynamic Modifiers: A Combined Experimental and Computational Studies. Journal of the American Chemical Society, 2023, 145, 1, 89–98.
 
-6. A. Nandi*, J. Martin* – Thermally-Activated Tunneling in the Two-Water Bridge Catalyzed Tautomerization of Phosphinylidene Compounds. ChemPhysChem, 2022, 23, e2022003.
+6. A. Nandi,* J. Martin* – Thermally-Activated Tunneling in the Two-Water Bridge Catalyzed Tautomerization of Phosphinylidene Compounds. ChemPhysChem, 2022, 23, e2022003.
 
-7. A. Nandi*, J. Martin* – Heavy-Atom Tunneling in the Covalent/Dative Bond Complexation of Cyclo[18]carbon–piperidine. Journal of Physical Chemistry B, 2022, 26, 1799–1804.
+7. A. Nandi,* J. Martin* – Heavy-Atom Tunneling in the Covalent/Dative Bond Complexation of Cyclo[18]carbon–piperidine. Journal of Physical Chemistry B, 2022, 26, 1799–1804.
 
 8. A. Nandi*, Z. Alassad, A. Milo, S. Kozuch – Quantum Tunneling on Carbene Organocatalysis: Breslow Intermediate Formation via Water-Bridges. ACS Catalysis, 2021, 11, 14836–14841.
 
