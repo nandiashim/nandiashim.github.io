@@ -33,7 +33,7 @@ Professional Experience
 Awards and Honors
 ======
 * 2021: Dean’s Excellence Postdoctoral Fellowship, Weizmann Institute of Science.   
-* 2021: University's Rector Prize for Excellence in Ph.D. (summa cum laude), Chemistry.  
+* 2021: University's Rector Prize for Excellence in Ph.D. (_summa cum laude_), Chemistry.  
 * 2017-2021: Negev-Tsin Scholarship for Ph.D., Chemistry.  
 * 2017: ADAMA Prize for Excellence in M.S. thesis.  
 * 2015: Rector Gold Medal for M.Sc., Chemistry.
