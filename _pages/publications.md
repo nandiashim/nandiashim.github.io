@@ -43,5 +43,5 @@ _Note:_ * denotes corresponding author. ‡ Equally contributed.
 
 18. A. Nandi, G. Molpeceres, P. K. Gupta, J. Martin, J. Kästner D. T. Major, S. Kozuch* – Quantum Tunneling in Computational Chemistry and Kinetics: Is it Really important? Chapter in Comprehensive Computational Chemistry (edited by Russell J. Boyd and Manuel Yañez). Elsevier, 2022 *(In press)*.
 
-19. P. Das‡, A. Roy‡, A. Nandi, I. Neogi,1, Y. Posner, I. Pinkas, S. Kozuch, M. Firer, M. Montag*, F. Grynszpan* – Thioxobimanes. Journal of Organic Chemistry *(In press)*.
+19. P. Das‡, A. Roy‡, A. Nandi, I. Neogi,1, Y. Posner, I. Pinkas, S. Kozuch, M. Firer, M. Montag*, F. Grynszpan* – Thioxobimanes. Journal of Organic Chemistry, 2023 *(In press)*.
 
