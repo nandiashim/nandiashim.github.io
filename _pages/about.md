@@ -37,5 +37,5 @@ Awards and Honors
 * 2017-2021: Negev-Tsin Scholarship for Ph.D., Chemistry.  
 * 2017: ADAMA Prize for Excellence in M.S. thesis.  
 * 2015: Rector Gold Medal for M.Sc., Chemistry.
-* 2013-2015: Oil and Natural Gas Corporation (ONGC) India Scholarship for the first rank in M.Sc. Chemistry at the University.
+* 2013-2015: Oil and Natural Gas Corporation (ONGC) India Scholarship for securing the first rank in M.Sc. Chemistry at the University.
 
