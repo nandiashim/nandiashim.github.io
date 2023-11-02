@@ -37,6 +37,6 @@ Awards and Honors
 * 2017-2021: Negev-Tsin Scholarship for Ph.D., Chemistry.  
 * 2017: ADAMA Prize for Excellence in M.S. thesis.  
 * 2015: Rector Gold Medal for M.Sc., Chemistry.
-* 2013-2015: Oil and Natural Gas Corporation (ONGC) India Scholarship for securing the first rank in M.Sc. Chemistry at the University.
-* 2013: Honored by St. Edmund's College, Shillong, for securing first class sixth position in the state-level Degree Examination.
+* 2013-2015: Oil and Natural Gas Corporation (ONGC) India Scholarship for securing the First Rank in M.Sc. Chemistry at the University.
+* 2013: Honored by St. Edmund's College, Shillong, for securing First Class with Sixth Rank in the state for the B.Sc. Degree University Examination.
 
