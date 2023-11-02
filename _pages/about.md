@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my digital space! I'm excited to pull back the curtain and give you a glimpse into my life as a Postdoctoral Research Associate at USC's Warshel Center for Multiscale Simulations. Picture a rollercoaster ride through the realms of physics, chemistry, and biology—that's my daily grind! I’m currently on a mission to decode the Renilla Luciferase enzyme, Nature’s very own neon light, with the help of advanced QM/MM methods.
+Welcome to my digital realm! I'm excited to pull back the curtain and give you a glimpse into my life as a Postdoctoral Research Associate at USC's Warshel Center for Multiscale Simulations. Picture a rollercoaster ride through the realms of physics, chemistry, and biology—that's my daily grind! I’m currently on a mission to decode the Renilla Luciferase enzyme, Nature’s very own neon light, with the help of advanced QM/MM methods.
 
 But wait, there's more! My scientific curiosity extends to unraveling the secrets of amyloid fibrils, proteins with links to Alzheimer’s and Parkinson’s. It’s a high-stakes challenge, but I’m all in, fueled by the promise of breakthroughs and deeper insights.
 
@@ -19,7 +19,7 @@ Thank you for stopping by, and I'm eager to share my scientific journey and disc
 Education
 ======
 * M.Sc. in Chemistry (Gold Medalist), North-Eastern Hill University, India, 2015.
-* MS-Ph.D. in Chemistry (_summa cum laude_), Ben-Gurion University of the Negev, Israel, 2021. 
+* MS-Ph.D. in Chemistry (_summa cum laude_), Ben-Gurion University of the Negev, Israel, 2021.  
   _Advisor:_ Dr. Sebastian Kozuch (Professor).
 
 Professional Experience
