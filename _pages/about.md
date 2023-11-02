@@ -18,8 +18,8 @@ Thank you for stopping by, and I'm eager to share my scientific journey and disc
 
 Education
 ======
-* M.Sc. in Chemistry, North-Eastern Hill University, India, 2015.
-* MS-Ph.D. in Chemistry, Ben-Gurion University of the Negev, Israel, 2021. 
+* M.Sc. in Chemistry (Gold Medalist), North-Eastern Hill University, India, 2015.
+* MS-Ph.D. in Chemistry (_summa cum laude_), Ben-Gurion University of the Negev, Israel, 2021. 
   _Advisor:_ Dr. Sebastian Kozuch (Professor).
 
 Professional Experience
