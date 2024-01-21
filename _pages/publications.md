@@ -7,11 +7,11 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed.  
 
-1. A. Nandi, A. Zhang, Z. T. Chu, W. Xie, A. Warshel* – Exploring Light-Emitting Agents in Renilla Luciferases Through Quantum Mechanical Consistent Force Field (QCFF/PI) Method. *(Manuscript in preparation)*
+1. A. Nandi, A. Zhang, Z. T. Chu, W. Xie, A. Warshel* – Exploring Light-Emitting Agents in Renilla Luciferases Through Effective QM/MM Methods. JACS *(under review)*
 
-2. M. Asadi, A. Nandi, A. Warshel* – Mechanism of reversible and irreversible covalent inhibitors targeting SARS-CoV-2 Mpro. JACS *(under review)*.
+2. M. Asadi, A. Nandi, A. Warshel* – Mechanism of reversible and irreversible covalent inhibitors targeting SARS-CoV-2 Mpro. JACS *(Manuscript in preparation)*.
 
-3. A. Nandi, A. Zhang, E. Arad, R. Jelenik, A. Warshel* – Deciphering the Catalytic Role of Native Glucagon Fibrils. *(Manuscript in preparation)*
+3. A. Nandi, A. Zhang, E. Arad, R. Jelenik, A. Warshel* – Deciphering the Catalytic Role of Native Glucagon Fibrils. ACS Catalysis *(Under review)*
 
 4. W. Jun Xie†,* D. Liu†, X. Wang†, A. Zhang, Q. Wei, A. Nandi, S. Dong*, Arieh Warshel* – Computational Luciferase Engineering by Generative Modeling of Natural Enzyme Sequences. PNAS *(In press)*.
 
