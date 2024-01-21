@@ -7,7 +7,7 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed.  
 
-1. A. Nandi, A. Zhang, Z. T. Chu, W. Xie, A. Warshel* – Exploring Light-Emitting Agents in Renilla Luciferases Through Effective QM/MM Methods. JACS *(under review)*
+1. A. Nandi, A. Zhang, Z. T. Chu, W. Xie, Z. Xu, S. Dong, A. Warshel* – Exploring Light-Emitting Agents in Renilla Luciferases Through Effective QM/MM Methods. JACS *(under review)*
 
 2. M. Asadi, A. Nandi, A. Warshel* – Mechanism of reversible and irreversible covalent inhibitors targeting SARS-CoV-2 Mpro. *(Manuscript in preparation)*.
 
