@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my digital realm! I'm excited to pull back the curtain and give you a glimpse into my life as a Postdoctoral Research Associate at USC's Warshel Center for Multiscale Simulations. Picture a rollercoaster ride through the realms of physics, chemistry, and biology—that's my daily grind! I’m currently on a mission to decode the Renilla Luciferase enzyme, Nature’s very own neon light, with the help of advanced QM/MM methods.
+Welcome to my digital realm! I'm excited to pull back the curtain and give you a glimpse into my life as a Postdoctoral Research Associate at USC's Warshel Center for Multiscale Simulations. Picture a rollercoaster ride through the realms of physics, chemistry, and biology—that's my daily grind! I’m currently on a mission to decode the Renilla Luciferase enzyme, Nature’s very own neon light, with the help of advanced QM/MM methods. Additionally, I'm focused on discovering effective PETase enzymes for plastic degradation, addressing a critical global environmental challenge.
 
 But wait, there's more! My scientific curiosity extends to unraveling the secrets of amyloid fibrils, proteins with links to Alzheimer’s and Parkinson’s. In my collaborative research endeavors, I am engaged in the search for potential inhibitors to combat SARS-CoV-2. Concurrently, I am also involved in enzyme design, leveraging the advanced capabilities of machine learning and artificial intelligence to drive innovation in this field. It’s a high-stakes challenge, but I’m all in, fueled by the promise of breakthroughs and deeper insights.
 
