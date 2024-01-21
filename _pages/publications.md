@@ -9,7 +9,7 @@ _Note:_ * denotes corresponding author. ‡ Equally contributed.
 
 1. A. Nandi, A. Zhang, Z. T. Chu, W. Xie, A. Warshel* – Exploring Light-Emitting Agents in Renilla Luciferases Through Effective QM/MM Methods. JACS *(under review)*
 
-2. M. Asadi, A. Nandi, A. Warshel* – Mechanism of reversible and irreversible covalent inhibitors targeting SARS-CoV-2 Mpro. JACS *(Manuscript in preparation)*.
+2. M. Asadi, A. Nandi, A. Warshel* – Mechanism of reversible and irreversible covalent inhibitors targeting SARS-CoV-2 Mpro. *(Manuscript in preparation)*.
 
 3. A. Nandi, A. Zhang, E. Arad, R. Jelenik, A. Warshel* – Deciphering the Catalytic Role of Native Glucagon Fibrils. ACS Catalysis *(Under review)*
 
