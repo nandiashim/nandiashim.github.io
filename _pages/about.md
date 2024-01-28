@@ -16,12 +16,6 @@ Flashback to my roots: I'm a product of Ben-Gurion University in Israel, where I
 
 Thank you for stopping by, and I'm eager to share my scientific journey and discoveries with you!
 
-Education
-======
-* M.Sc. in Chemistry (Gold Medalist), North-Eastern Hill University, India, 2015.
-* MS-Ph.D. in Chemistry (_summa cum laude_), Ben-Gurion University of the Negev, Israel, 2021.  
-  _Advisor:_ Dr. Sebastian Kozuch (Professor).
-
 Professional Experience
 ======
 * 2022-Present: Postdoctoral Research Associate, University of Southern California.    
@@ -29,6 +23,12 @@ Professional Experience
   
 * 2021-2022: Postdoctoral Fellow, Weizmann Institute of Science, Israel.     
   _Advisor:_ Dr. Gershom (Jan) Martin (Professor and 2023 Schrödinger Medalist).
+
+Education
+======
+* M.Sc. in Chemistry (Gold Medalist), North-Eastern Hill University, India, 2015.
+* MS-Ph.D. in Chemistry (_summa cum laude_), Ben-Gurion University of the Negev, Israel, 2021.  
+  _Advisor:_ Dr. Sebastian Kozuch (Professor).
 
 Awards and Honors
 ======
@@ -40,3 +40,9 @@ Awards and Honors
 * 2013-2015: Oil and Natural Gas Corporation (ONGC) India Scholarship for securing the First Rank in M.Sc. Chemistry at the University.
 * 2013: Honored by St. Edmund's College, Shillong, for securing First Class with Sixth Rank in the state for the B.Sc. Degree University Examination.
 
+Academic Contributions
+======
+Reviewer for:
+* _Chemistry - a European Journal_
+* _Inorganic Chemistry_
+* _European Journal of Organic Chemistry_
