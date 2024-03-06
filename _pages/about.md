@@ -46,3 +46,4 @@ Reviewer for:
 * _Chemistry - a European Journal_
 * _Inorganic Chemistry_
 * _European Journal of Organic Chemistry_
+* _Physical Chemistry Chemical Physics_
