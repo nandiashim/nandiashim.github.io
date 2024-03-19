@@ -32,7 +32,7 @@ Education
 
 Awards and Honors
 ======
-* 2024: Invitation as a young scientist to the 73rd Lindau Nobel Laureate Meetings, Germany.
+* 2024: Invitation as a young scientist to the 73rd Lindau Nobel Laureate Meeting, Germany.
 * 2024: DST-INSPIRE Faculty Fellowship, Government of India.
 * 2021: Dean’s Excellence Postdoctoral Fellowship, Weizmann Institute of Science.   
 * 2021: University's Rector Prize for Excellence in Ph.D. (_summa cum laude_), Chemistry.  
