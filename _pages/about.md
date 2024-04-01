@@ -49,3 +49,4 @@ Reviewer for:
 * _Inorganic Chemistry_
 * _European Journal of Organic Chemistry_
 * _Physical Chemistry Chemical Physics_
+* _Canadian Journal of Chemistry_
