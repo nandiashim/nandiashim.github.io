@@ -50,3 +50,4 @@ Reviewer for:
 * _European Journal of Organic Chemistry_
 * _Physical Chemistry Chemical Physics_
 * _Canadian Journal of Chemistry_
+* _Helvetica Chimica Acta_
