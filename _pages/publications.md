@@ -7,7 +7,7 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed.  
 
-1. A. Nandi, A. Zhang, Z. T. Chu, W. Xie, Z. Xu, S. Dong, A. Warshel* – Exploring Light-Emitting Agents in Renilla Luciferases by an Effective QM/MM Methods. JACS (*Under review*).
+1. A. Nandi, A. Zhang, Z. T. Chu, W. Xie, Z. Xu, S. Dong, A. Warshel* – Exploring Light-Emitting Agents in Renilla Luciferases by an Effective QM/MM Methods. JACS (*Just accepted*).
 
 2. A. Nandi, A. Zhang, E. Arad, R. Jelenik, A. Warshel* – Assessing the Catalytic Role of Native Glucagon Amyloid Fibrils. ACS Catalysis, 2024, 14, 4656-4664.
 
