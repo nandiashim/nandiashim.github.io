@@ -51,3 +51,4 @@ Reviewer for:
 * _Physical Chemistry Chemical Physics_
 * _Canadian Journal of Chemistry_
 * _Helvetica Chimica Acta_
+* _ChemPlusChem_
