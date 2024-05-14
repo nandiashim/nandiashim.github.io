@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-_Note:_ * denotes corresponding author. ‡ Equally contributed.  
+_Note:_ * denotes corresponding author. ‡ Equally contributed. 
+
+17.	A. Nandi, A. Zhang, Z. T. Chu, W. Xie, Z. Xu, S. Dong, A.Warshel*
+Exploring the Light-Emitting Agents in Renilla Luciferases by an Effective QM/MM Approach
+Journal of the American Chemical Society 2024 (Just published). 
 
 1. A. Nandi, A. Zhang, Z. T. Chu, W. Xie, Z. Xu, S. Dong, A. Warshel* – Exploring Light-Emitting Agents in Renilla Luciferases by an Effective QM/MM Methods. JACS (*Just accepted*).
 
