@@ -19,11 +19,11 @@ _Note:_ * denotes corresponding author. ‡ Equally contributed.
     Assessing the Catalytic Role of Native Glucagon Amyloid Fibrils.
     ACS Catalysis, __2024__, 14, 4656-4664 [(DOI).](https://pubs.acs.org/doi/10.1021/acscatal.4c00452)
 
-16. W. Jun Xie†,* D. Liu†, X. Wang†, A. Zhang, Q. Wei, __A. Nandi__, S. Dong*, Arieh Warshel*.
+16. W. Jun Xie†,* D. Liu†, X. Wang†, A. Zhang, Q. Wei, __A. Nandi__, S. Dong,* Arieh Warshel*.
     Computational Luciferase Engineering by Generative Modeling of Natural Enzyme Sequences.
     PNAS, __2023__ Nov 28;120(48):e2312848120 [(DOI).](https://www.pnas.org/doi/full/10.1073/pnas.2312848120)
 
-15. Z. Alassad‡, __A. Nandi__‡, S. Kozuch*, A. Milo*.
+15. Z. Alassad‡, __A. Nandi__‡, S. Kozuch,* A. Milo*.
     Strategic Design of Organocatalysts through in-situ Dynamic Modifiers: A Combined Experimental and Computational 
     Studies.
     Journal of the American Chemical Society, __2023__, 145, 1, 89–98 [(DOI).](https://pubs.acs.org/doi/abs/10.1021/jacs.2c08302)
@@ -53,7 +53,7 @@ _Note:_ * denotes corresponding author. ‡ Equally contributed.
     Rerouting an Organocatalytic Reaction by Intercepting its Reactive Intermediates.
     ACS Catalysis, __2021__, 11, 14561–14569 [(DOI).](https://pubs.acs.org/doi/10.1021/acscatal.1c04583)
     
- 8. __A. Nandi__‡, N. Tarannam‡, D. R. Silva, C. F. Guerra, T. A. Hamlin*, S. Kozuch*.
+ 8. __A. Nandi__‡, N. Tarannam‡, D. R. Silva, C. F. Guerra, T. A. Hamlin,* S. Kozuch*.
     Boron Tunnelling in the “Weak” Bond-stretch Isomerization of N-B Lewis Adducts.
     ChemPhysChem, __2021__, 22, 1857-1862 [(DOI).](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202100505)
 
