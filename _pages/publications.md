@@ -7,8 +7,7 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed. 
 
-19. M. Asadi, A. Nandi, A. Warshel*
-    Mechanism of Reversible and Irreversible Covalent Inhibitors Targeting SARS-CoV-2 Mpro
+19. M. Asadi, A. Nandi, A. Warshel* <br> Mechanism of Reversible and Irreversible Covalent Inhibitors Targeting SARS-CoV-2 Mpro
     Biochemistry (Submitted, under minor revision).
     
 18. A. Nandi, A. Zhang, Z. T. Chu, W. Xie, Z. Xu, S. Dong, A. Warshel*
