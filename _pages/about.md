@@ -19,15 +19,15 @@ Thank you for stopping by, and I'm eager to share my scientific journey and disc
 Professional Experience
 ======
 * 2022-Present: Postdoctoral Research Associate, University of Southern California.    
-  _Advisor:_ Dr. Arieh Warshel (Distinguished Professor and 2013 Nobel Laureate in Chemistry).
+  _Advisor:_ [Dr. Arieh Warshel](https://laetro.usc.edu/) (Distinguished Professor and 2013 Nobel Laureate in Chemistry).
   
 * 2021-2022: Postdoctoral Fellow, Weizmann Institute of Science, Israel.     
-  _Advisor:_ Dr. Gershom (Jan) Martin (Professor and 2023 Schrödinger Medalist).
+  _Advisor:_ [Dr. Gershom (Jan) Martin](https://www.compchem.me/) (Professor and 2023 Schrödinger Medalist).
 
 Education
 ======
 * MS-Ph.D. in Chemistry (_summa cum laude_), Ben-Gurion University of the Negev, Israel, 2021.  
-  _Advisor:_ Dr. Sebastian Kozuch (Professor).
+  _Advisor:_ [Dr. Sebastian Kozuch](https://tzin.bgu.ac.il/~kozuch/) (Professor).
 * M.Sc. in Chemistry (Gold Medalist), North-Eastern Hill University, India, 2015.
 
 Awards and Honors
