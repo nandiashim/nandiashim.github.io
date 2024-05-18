@@ -28,7 +28,7 @@ _Note:_ * denotes corresponding author. ‡ Equally contributed.
     Studies.
     Journal of the American Chemical Society, __2023__, 145, 1, 89–98 [(DOI).](https://pubs.acs.org/doi/abs/10.1021/jacs.2c08302)
 
-14. P. Das, A. Roy, __A. Nandi__, I. Neogi,1, Y. Posner, I. Pinkas, S. Kozuch, M. Firer, M. Montag*, F. Grynszpan*. 
+14. P. Das, A. Roy, __A. Nandi__, I. Neogi,1, Y. Posner, I. Pinkas, S. Kozuch, M. Firer, M. Montag,* F. Grynszpan*. 
     Thioxobimanes.
     Journal of Organic Chemistry, __2023__, 88 (19), 13475-13489 [(DOI).](https://pubs.acs.org/doi/10.1021/acs.joc.3c00873)
    
