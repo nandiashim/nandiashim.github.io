@@ -36,7 +36,8 @@ Awards and Honors
 * 2024: DST-INSPIRE Faculty Fellowship Award, Government of India, Ministry of Science & Technology, India.
 * 2021: Dean’s Excellence Postdoctoral Fellowship, Weizmann Institute of Science.   
 * 2021: University's Rector Prize for Excellence in Ph.D. (_Summa cum Laude_), Chemistry.  
-* 2017-2021: Negev-Tsin Scholarship for Ph.D., Chemistry.  
+* 2017-2021: Negev-Tsin Scholarship for Ph.D., Chemistry.
+* 2017: Invitation as an Exceptional Doctoral Student to meet the Prime Minister of India in Tel Aviv, Israel.  
 * 2017: ADAMA Prize for Excellence in M.S. Thesis.  
 * 2015: Rector Gold Medal for M.Sc., Chemistry.
 * 2013-2015: Oil and Natural Gas Corporation (ONGC) India Scholarship for securing the First Rank in M.Sc. Chemistry at the University.
