@@ -32,6 +32,7 @@ Education
 
 Awards and Honors
 ======
+* 2024: Selected as a Mars Fellow for the 73rd Lindau Nobel Laureate Meeting in Germany.
 * 2024: Invitation as a Young Scientist to the 73rd Lindau Nobel Laureate Meeting, Germany.
 * 2024: DST-INSPIRE Faculty Fellowship Award, Government of India, Ministry of Science & Technology, India.
 * 2021: Dean’s Excellence Postdoctoral Fellowship, Weizmann Institute of Science.   
