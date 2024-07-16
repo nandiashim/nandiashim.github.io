@@ -58,5 +58,5 @@ Reviewer for:
 
 In the News
 ======
-* June 2024: Featured in the USC's Newsbrief for my selection for the Lindau Nobel Laureate Meeting. [Link](https://dornsife.usc.edu/news-briefs/news-brief/2024/06/warshel-postdoc-selected-to-attend-prestigious-nobel-laureate-meeting/)
+* June 2024: Featured in the USC's News Briefs for my selection for the Lindau Nobel Laureate Meeting. [Link](https://dornsife.usc.edu/news-briefs/news-brief/2024/06/warshel-postdoc-selected-to-attend-prestigious-nobel-laureate-meeting/)
 * June 2024: Featured on Prof. Warshel’s website for my selection for the Lindau Nobel Laureate Meeting. [Link](https://arieh.usc.edu/)
