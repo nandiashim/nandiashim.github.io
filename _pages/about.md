@@ -18,7 +18,7 @@ Thank you for stopping by, and I'm eager to share my scientific journey and disc
 
 Professional Experience
 ======
-* 2022-Present: Postdoctoral Research Associate, University of Southern California.    
+* 2022-Present: Postdoctoral Research Associate, University of Southern California, USA.    
   _Advisor:_ [Dr. Arieh Warshel](https://laetro.usc.edu/team.html) (Distinguished Professor and 2013 Nobel Laureate in Chemistry).
   
 * 2021-2022: Postdoctoral Fellow, Weizmann Institute of Science, Israel.     
