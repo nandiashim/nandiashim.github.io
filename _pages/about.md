@@ -12,7 +12,7 @@ Welcome to my digital realm! I'm excited to pull back the curtain and give you a
 
 But wait, there's more! My scientific curiosity extends to unraveling the secrets of amyloid fibrils, proteins with links to Alzheimer’s and Parkinson’s. In my collaborative research endeavors, I am engaged in the search for potential inhibitors to combat SARS-CoV-2. Concurrently, I am also involved in enzyme design, leveraging the advanced capabilities of machine learning and artificial intelligence to drive innovation in this field. It’s a high-stakes challenge, but I’m all in, fueled by the promise of breakthroughs and deeper insights.
 
-Flashback to my roots: I'm a product of Ben-Gurion University in Israel, where I plunged headfirst into the fascinating world of computational physical organic chemistry, graduating in 2021. My love affair with science took me to the prestigious Weizmann Institute of Science, where, as a Dean’s Excellence Postdoctoral Fellow, I continued my deep dive into the world of Quantum tunneling and Organocatalysis.
+Flashback to my roots: I'm a product of Ben-Gurion University in Israel, where I plunged headfirst into the fascinating world of computational physical organic chemistry, graduating in 2021. My love affair with science took me to the prestigious Weizmann Institute of Science where as a Dean’s Excellence Postdoctoral Fellow, I continued my deep dive into the world of Quantum tunneling and Organocatalysis.
 
 Thank you for stopping by, and I'm eager to share my scientific journey and discoveries with you!
 
