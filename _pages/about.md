@@ -60,3 +60,4 @@ In the News
 ======
 * June 2024: Featured in the USC's News Briefs for my selection for the Lindau Nobel Laureate Meeting. [Link](https://dornsife.usc.edu/news-briefs/news-brief/2024/06/warshel-postdoc-selected-to-attend-prestigious-nobel-laureate-meeting/)
 * June 2024: Featured on Prof. Warshel’s website for my selection for the Lindau Nobel Laureate Meeting. [Link](https://arieh.usc.edu/)
+* August 2017: Featured in Ben-Gurion University News for Winning the Negev-Tzin Fellowship. [Link](https://in.bgu.ac.il/en/Pages/news/ashim_nandi.aspx)
