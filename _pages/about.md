@@ -54,7 +54,7 @@ Reviewer for:
 * _Canadian Journal of Chemistry_
 * _Helvetica Chimica Acta_
 * _ChemPlusChem_
-* _The Journal of Organic Chemistry_
+* _Journal of Organic Chemistry_
 
 In the News
 ======
