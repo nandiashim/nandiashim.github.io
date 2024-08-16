@@ -7,9 +7,9 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed. 
 
-19. M. Asadi, __A. Nandi__, A. Warshel*.
+19. __A. Nandi__, M. Asadi, Aoxuan Zhang, A. Warshel*.
     Mechanism of Reversible and Irreversible Covalent Inhibitors Targeting SARS-CoV-2 Mpro.
-    Biochemistry (Submitted, under minor revision).
+    (Manuscript in preparation).
     
 18. __A. Nandi__, A. Zhang, Z. T. Chu, W. Xie, Z. Xu, S. Dong, A. Warshel*.
     Exploring the Light-Emitting Agents in Renilla Luciferases by an Effective QM/MM Approach.
