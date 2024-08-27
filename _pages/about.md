@@ -55,6 +55,7 @@ Reviewer for:
 * _Helvetica Chimica Acta_
 * _ChemPlusChem_
 * _Journal of Organic Chemistry_
+* _Molecular Catalysis_
 
 In the News
 ======
