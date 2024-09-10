@@ -7,7 +7,15 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed. 
 
-19. __A. Nandi__, M. Asadi, Aoxuan Zhang, A. Warshel*.
+21. J. Zhou,† M. Wub,† __A. Nandi__, A. Warshel,* Ziwei Huanga* 
+    Drug-resistant Mutations of Viral Proteases Studied by Chemical and Computational Strategies.
+    (Manuscript in preparation).
+
+20. __A. Nandi__,* A. Zhang, R. Halder, A. Warshel*.
+    Catalytic Mechanism of Renilla Luciferase.
+    (Manuscript in preparation).
+
+19. __A. Nandi__, M. Asadi, A. Zhang, A. Warshel*.
     Mechanism of Reversible and Irreversible Covalent Inhibitors Targeting SARS-CoV-2 Mpro.
     (Manuscript in preparation).
     
