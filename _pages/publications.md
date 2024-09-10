@@ -7,7 +7,7 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed. 
 
-21. J. Zhou,† M. Wub,† __A. Nandi__, A. Warshel,* Z. Huanga* 
+21. J. Zhou,† M. Wub,† __A. Nandi__, A. Warshel,* Z. Huang*. 
     Drug-resistant Mutations of Viral Proteases Studied by Chemical and Computational Strategies.
     (Manuscript in preparation).
 
