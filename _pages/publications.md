@@ -7,6 +7,10 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed. 
 
+22. _A. Nandi,* and T. Schleif*. 
+    The Role of Quantum Mechanical Tunneling in Synthetic Organic Chemistry.
+    (Manuscript in preparation).
+    
 21. J. Zhou,† M. Wub,† __A. Nandi__, A. Warshel,* Z. Huang*. 
     Drug-resistant Mutations of Viral Proteases Studied by Chemical and Computational Strategies.
     (Manuscript in preparation).
