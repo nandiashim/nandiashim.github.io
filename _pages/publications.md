@@ -7,7 +7,7 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed. 
 
-22. _A. Nandi,* and T. Schleif*. 
+22. A. Nandi,* and T. Schleif*. 
     The Role of Quantum Mechanical Tunneling in Synthetic Organic Chemistry.
     (Manuscript in preparation).
     
