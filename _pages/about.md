@@ -56,6 +56,7 @@ Reviewer for:
 * _ChemPlusChem_
 * _Journal of Organic Chemistry_
 * _Molecular Catalysis_
+* _Chemical Communications_
 
 In the News
 ======
