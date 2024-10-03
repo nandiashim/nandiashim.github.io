@@ -19,9 +19,9 @@ _Note:_ * denotes corresponding author. ‡ Equally contributed.
     Catalytic Mechanism of Renilla Luciferase.
     (Manuscript in preparation).
 
-19. __A. Nandi__, M. Asadi, A. Zhang, A. Warshel*.
-    Mechanism of Reversible and Irreversible Covalent Inhibitors Targeting SARS-CoV-2 Mpro.
-    (Manuscript in preparation).
+19. __A. Nandi__, M. Asadi, A. Zhang, Zhen T. Chu, A. Warshel*.
+    Mechanistic Insights into Nitrile and Alkyne Covalent Inhibitors of the SARS-CoV-2 Main Protease.
+    (Submitted).
     
 18. __A. Nandi__, A. Zhang, Z. T. Chu, W. Xie, Z. Xu, S. Dong, A. Warshel*.
     Exploring the Light-Emitting Agents in Renilla Luciferases by an Effective QM/MM Approach.
