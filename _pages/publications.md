@@ -21,7 +21,7 @@ _Note:_ * denotes corresponding author. ‡ Equally contributed.
 
 19. __A. Nandi__, M. Asadi, A. Zhang, Zhen T. Chu, A. Warshel*.
     Mechanistic Insights into Nitrile and Alkyne Covalent Inhibitors of the SARS-CoV-2 Main Protease.
-    (Submitted).
+    ACS Catalysis, __2024__, (Just accepted).
     
 18. __A. Nandi__, A. Zhang, Z. T. Chu, W. Xie, Z. Xu, S. Dong, A. Warshel*.
     Exploring the Light-Emitting Agents in Renilla Luciferases by an Effective QM/MM Approach.
