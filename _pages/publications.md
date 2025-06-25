@@ -7,12 +7,12 @@ author_profile: true
 
 _Note:_ * denotes corresponding author. ‡ Equally contributed. 
 
-23. A. Nandi, and A. Warshel*
+23. A. Nandi, and A. Warshel*.
     The Action of Plastic Degrading Enzyme is Accelerated Mainly Due to an Increase in Thermal Stability Rather Than by        Inherent Catalytic Effect.
     Journal of the American Chemical Society, __2025__ (Under revision).
 
 22. A. Nandi,* and T. Schleif*. 
-    The Role of Quantum Mechanical Tunneling in Synthetic Organic Chemistry.
+    The Role of Quantum Tunneling in Synthetic Organic Chemistry.
     European Journal of Organic Chemistry, __2025__ (Under revision).
     
 21. J. Zhou,† __A. Nandi__,† M. Wu,† A. Warshel,* Z. Huang*. 
